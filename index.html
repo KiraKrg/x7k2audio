@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>IN IHREM HAUS – für dich</title>
+<style>
+  :root {
+    --bg: #f5efe6;
+    --ink: #2b2420;
+    --muted: #6e625a;
+    --accent: #8a3b24;
+    --accent-ink: #fff;
+    --card: #fffaf2;
+    --line: #e2d8c9;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1c1815;
+      --ink: #f1e9de;
+      --muted: #b3a597;
+      --accent: #d98a68;
+      --accent-ink: #1c1815;
+      --card: #26211d;
+      --line: #3a322b;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+  }
+  main {
+    max-width: 440px;
+    margin: 0 auto;
+    padding: 40px 20px 56px;
+    text-align: center;
+  }
+  .cover {
+    display: block;
+    width: min(260px, 70vw);
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    margin: 0 auto 28px;
+    border-radius: 14px;
+    background: var(--line);
+    box-shadow: 0 14px 34px rgba(0,0,0,.22);
+  }
+  .kicker {
+    margin: 0 0 6px;
+    font-size: 13px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  h1 {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 32px;
+    line-height: 1.15;
+    letter-spacing: .01em;
+  }
+  .author {
+    margin: 8px 0 0;
+    font-family: Georgia, "Times New Roman", serif;
+    font-style: italic;
+    color: var(--muted);
+    font-size: 18px;
+  }
+  .lead {
+    margin: 22px 0 28px;
+    font-size: 17px;
+  }
+  .btn {
+    display: block;
+    width: 100%;
+    padding: 17px 20px;
+    border: 0;
+    border-radius: 999px;
+    background: var(--accent);
+    color: var(--accent-ink);
+    font: 600 18px/1.2 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .btn:active { transform: scale(.99); }
+  .hint {
+    margin: 12px 0 0;
+    font-size: 14px;
+    color: var(--muted);
+  }
+  details {
+    margin-top: 34px;
+    text-align: left;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 4px 16px;
+  }
+  summary {
+    cursor: pointer;
+    padding: 12px 0;
+    font-weight: 600;
+    list-style-position: inside;
+  }
+  details ol {
+    margin: 4px 0 14px;
+    padding-left: 20px;
+  }
+  details li { margin: 8px 0; }
+  .url-row {
+    display: flex;
+    gap: 8px;
+    align-items: stretch;
+    margin: 6px 0 14px;
+  }
+  .url {
+    flex: 1;
+    min-width: 0;
+    padding: 10px 12px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--bg);
+    font: 13px/1.35 ui-monospace, SFMono-Regular, Menlo, monospace;
+    word-break: break-all;
+    user-select: all;
+    -webkit-user-select: all;
+  }
+  .copy {
+    flex: none;
+    padding: 0 14px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--card);
+    color: var(--ink);
+    font: 600 14px -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+  }
+  .tip {
+    margin-top: 26px;
+    font-size: 14px;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<main>
+  <img class="cover" src="cover.jpg" alt="Cover von IN IHREM HAUS">
+  <p class="kicker">Ein Hörbuch, nur für dich</p>
+  <h1>IN IHREM HAUS</h1>
+  <p class="author">Yael van der Wouden</p>
+
+  <p class="lead">Tippe auf den Knopf. Die Podcasts-App öffnet sich und du kannst das Hörbuch zu deiner Mediathek hinzufügen.</p>
+
+  <a class="btn" href="podcast://kirakrg.github.io/x7k2audio/feed.xml">In Podcasts öffnen</a>
+  <p class="hint">Funktioniert auf dem iPhone mit der Apple-Podcasts-App.</p>
+
+  <details>
+    <summary>Es öffnet sich nichts? So geht es von Hand</summary>
+    <ol>
+      <li>Kopiere diese Adresse:
+        <div class="url-row">
+          <div class="url" id="url">https://kirakrg.github.io/x7k2audio/feed.xml</div>
+          <button class="copy" id="copy" type="button">Kopieren</button>
+        </div>
+      </li>
+      <li>Öffne die App <strong>Podcasts</strong> und tippe unten auf <strong>Mediathek</strong>.</li>
+      <li>Tippe auf <strong>Sendung per URL folgen …</strong> (steht in der Mitte oder oben rechts hinter den drei Punkten).</li>
+      <li>Füge die Adresse ein und tippe auf <strong>Folgen</strong>.</li>
+    </ol>
+  </details>
+
+  <p class="tip">Tipp für unterwegs: Lade die Kapitel in der App herunter (Download-Symbol bei der Folge oder die Folge länger gedrückt halten). Dann läuft es auch ohne Internet. Im Hintergrund oder bei gesperrtem Bildschirm läuft es sowieso weiter.</p>
+</main>
+
+<script>
+  (function () {
+    var btn = document.getElementById('copy');
+    var box = document.getElementById('url');
+    btn.addEventListener('click', function () {
+      var text = box.textContent.trim();
+      function done() { btn.textContent = 'Kopiert ✓'; setTimeout(function () { btn.textContent = 'Kopieren'; }, 2000); }
+      try {
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(text).then(done, fallback);
+        } else { fallback(); }
+      } catch (e) { fallback(); }
+      function fallback() {
+        try {
+          var r = document.createRange(); r.selectNodeContents(box);
+          var s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+          document.execCommand('copy'); done();
+        } catch (e) { btn.textContent = 'Adresse antippen'; }
+      }
+    });
+  })();
+</script>
+</body>
+</html>
