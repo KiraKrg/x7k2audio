@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>IN IHREM HAUS - Yael van der Wouden</title>
+<link>https://KiraKrg.github.io/x7k2audio/</link>
+<description>Ein Hörbuch, nur für dich vorgelesen.</description>
+<language>de</language>
+<atom:link href="https://KiraKrg.github.io/x7k2audio/feed.xml" rel="self" type="application/rss+xml"/>
+<itunes:author>Vorgelesen von mir</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>serial</itunes:type>
+<itunes:block>Yes</itunes:block>
+<itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
+<itunes:image href="https://KiraKrg.github.io/x7k2audio/cover.jpg"/>
+<image><url>https://KiraKrg.github.io/x7k2audio/cover.jpg</url><title>IN IHREM HAUS - Yael van der Wouden</title><link>https://KiraKrg.github.io/x7k2audio/</link></image>
+<item>
+<title>Kapitel 1</title>
+<description>Kapitel 1</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-01.m4a" length="12855660" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-01.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 02:12:20 +0000</pubDate>
+<itunes:duration>00:32:12</itunes:duration>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 2</title>
+<description>Kapitel 2</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-02.m4a" length="10753429" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-02.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 03:12:25 +0000</pubDate>
+<itunes:duration>00:27:47</itunes:duration>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 3</title>
+<description>Kapitel 3</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-03.m4a" length="8175862" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-03.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 04:12:29 +0000</pubDate>
+<itunes:duration>00:20:52</itunes:duration>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 4</title>
+<description>Kapitel 4</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-04.m4a" length="8934247" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-04.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 05:12:32 +0000</pubDate>
+<itunes:duration>00:23:02</itunes:duration>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 5</title>
+<description>Kapitel 5</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-05.m4a" length="14829975" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-05.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 06:12:39 +0000</pubDate>
+<itunes:duration>00:38:16</itunes:duration>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 6</title>
+<description>Kapitel 6</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-06.m4a" length="7876718" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-06.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 07:12:42 +0000</pubDate>
+<itunes:duration>00:20:38</itunes:duration>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 7</title>
+<description>Kapitel 7</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-07.m4a" length="10340748" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-07.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 08:12:47 +0000</pubDate>
+<itunes:duration>00:26:19</itunes:duration>
+<itunes:episode>7</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 8</title>
+<description>Kapitel 8</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-08.m4a" length="10727374" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-08.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 09:12:51 +0000</pubDate>
+<itunes:duration>00:28:04</itunes:duration>
+<itunes:episode>8</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 9</title>
+<description>Kapitel 9</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-09.m4a" length="9798663" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-09.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 10:12:55 +0000</pubDate>
+<itunes:duration>00:25:40</itunes:duration>
+<itunes:episode>9</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 10</title>
+<description>Kapitel 10</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-10.m4a" length="15897277" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-10.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 11:13:02 +0000</pubDate>
+<itunes:duration>00:42:07</itunes:duration>
+<itunes:episode>10</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 11</title>
+<description>Kapitel 11</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-11.m4a" length="14508955" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-11.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 12:13:08 +0000</pubDate>
+<itunes:duration>00:38:18</itunes:duration>
+<itunes:episode>11</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 12</title>
+<description>Kapitel 12</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-12.m4a" length="17983286" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-12.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 13:13:16 +0000</pubDate>
+<itunes:duration>00:46:23</itunes:duration>
+<itunes:episode>12</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 13</title>
+<description>Kapitel 13</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-13.m4a" length="15539854" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-13.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 14:13:22 +0000</pubDate>
+<itunes:duration>00:39:39</itunes:duration>
+<itunes:episode>13</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Kapitel 14</title>
+<description>Kapitel 14</description>
+<enclosure url="https://KiraKrg.github.io/x7k2audio/kapitel-14.m4a" length="10859077" type="audio/x-m4a"/>
+<guid isPermaLink="false">https://KiraKrg.github.io/x7k2audio/kapitel-14.m4a</guid>
+<pubDate>Tue, 10 Nov 2026 15:13:27 +0000</pubDate>
+<itunes:duration>00:28:28</itunes:duration>
+<itunes:episode>14</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+</rss>
